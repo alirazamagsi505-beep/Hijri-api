@@ -2,24 +2,19 @@
   "calendar": "jafria",
   "region": "Pakistan - Fiqh Jafaria",
   "year": 1448,
-  "last_updated": "2026-10-24T13:10:00+05:00",
+  "last_updated": "2026-10-24T13:28:20.715084",
   "source": "https://alirazamagisi505-beep.github.io/Hijri-api/",
   "today": {
     "gregorian": "2026-10-24",
-    "hijri_day": 2,
+    "hijri_day": 13,
     "hijri_month": 5,
-    "hijri_month_name_en": "Jumada al-Ula",
-    "hijri_month_name_ur": "جمادی الاول",
-    "hijri_year": 1448,
-    "fiqh": "Jafria"
+    "hijri_year": 1448
   },
   "days": {
     "2026-10-24": {
-      "d": 2,
+      "d": 13,
       "m": 5,
-      "y": 1448,
-      "month_en": "Jumada al-Ula",
-      "month_ur": "جمادی الاول"
+      "y": 1448
     }
   }
 }
