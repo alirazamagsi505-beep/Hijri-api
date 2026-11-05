@@ -2,11 +2,11 @@
   "calendar": "jafria",
   "region": "Pakistan - Fiqh Jafaria",
   "year": 1448,
-  "last_updated": "2026-11-05T05:10:04.157896",
+  "last_updated": "2026-11-06T04:56:43.424751",
   "source": "https://alirazamagisi505-beep.github.io/Hijri-api/",
   "today": {
-    "gregorian": "2026-11-05",
-    "hijri_day": 25,
+    "gregorian": "2026-11-06",
+    "hijri_day": 26,
     "hijri_month": 5,
     "hijri_year": 1448
   },
@@ -73,6 +73,11 @@
     },
     "2026-11-05": {
       "d": 25,
+      "m": 5,
+      "y": 1448
+    },
+    "2026-11-06": {
+      "d": 26,
       "m": 5,
       "y": 1448
     }
